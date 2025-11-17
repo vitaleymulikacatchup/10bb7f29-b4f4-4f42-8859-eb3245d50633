@@ -6,7 +6,7 @@ import HeroSplit from '@/components/sections/hero/HeroSplit';
 import TagAbout from '@/components/sections/about/TagAbout';
 import FeatureCardSeven from '@/components/sections/feature/FeatureCardSeven';
 import PricingCardThree from '@/components/sections/pricing/PricingCardThree';
-import MetricCardThree from '@/components/sections/metric/MetricCardThree';
+import MetricCardThree from '@/components/sections/metrics/MetricCardThree';
 import TeamCardOne from '@/components/sections/team/TeamCardOne';
 import TestimonialCardTwo from '@/components/sections/testimonial/TestimonialCardTwo';
 import SocialProofOne from '@/components/sections/socialProof/SocialProofOne';
