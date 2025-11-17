@@ -335,7 +335,7 @@ export default function Home() {
             "https://pixabay.com/get/g6e6ee7ad6462224ba4c9093658c2b90520a47e829ad01549e325bfc302cf1b94e66b277af0b335e381683c55b8d5fe16eb34e65ac026e16155365cd0f4775475_1280.jpg",
             "https://pixabay.com/get/g606e2e44ef591d127dcf8a827bf844dc16c2f715c0fc9ca07bc5fddc69a5528cb1f96c3d81804e329c6ca2a4606acf4bc23c39b2dd8e37cfeff51ea41f84608d_1280.jpg",
             "https://pixabay.com/get/gb69610d2d516af64dcc03d95fee98873f09cc4ba138518fe7d8d12e41c6466588479349a9391f8ac506b130c22d720ae4bf43ad6bec4dbb3f8e65c39b08ba719_1280.jpg"
-          ]
+          ]}
           speed={35}
           showCard={true}
         />
